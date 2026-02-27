@@ -47,8 +47,7 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Gulati&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Gulati&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ketan-Gulati&theme=tokyonight" />
 </p>
 
 ---
