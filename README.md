@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Coffee+%E2%86%92+Code+%E2%86%92+Scale+%E2%98%95;Full-Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95;Full-Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -47,8 +47,8 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketan-gulati&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketan-gulati&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Gulati&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Gulati&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
