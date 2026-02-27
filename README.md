@@ -75,6 +75,13 @@
 </p>
 
 ---
+## 🧠 Engineering Focus
+
+• Backend-first system design  
+• Concurrency & performance optimization  
+• Clean API architecture  
+• Production-oriented thinking  
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:203a43,100:0f2027&section=footer"/>
