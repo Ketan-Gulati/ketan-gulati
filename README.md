@@ -1,69 +1,29 @@
-<h1 align="center">Ketan Gulati</h1>
-<h3 align="center">Coffee → Code → Scale ☕</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ketan%20Gulati&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">Coffee → Code → Scale ☕</h2>
 
 <p align="center">
-Full-Stack MERN Developer • Backend Focused • System Design Learner
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Backend+Focused+Engineer;System+Design+Learner;Building+Scalable+Systems" />
 </p>
 
 ---
 
-### 🚀 Currently Building
-**BookMyShow — High Concurrency Ticket Booking System**  
-Designing scalable architecture, handling race conditions, and optimizing performance.
+## 🚀 Currently Building
+
+🟢 **BookMyShow — High Concurrency Ticket Booking System**
+
+• Handling race conditions  
+• Designing scalable architecture  
+• Optimizing DB locking & performance  
 
 ---
 
-### 🧠 Currently Learning
-- Advanced Backend Patterns  
-- System Design Fundamentals  
-- Next.js  
-- DSA for SDE roles  
+## 🧠 Engineering Focus
 
----
-
-### 💬 Ask Me About
-React • Node.js • MongoDB • JWT Auth • REST APIs • API Architecture  
-
----
-
-### 📫 Reach Me
-**ketangulati66@gmail.com**  
-[LinkedIn](https://www.linkedin.com/in/ketan-gulati-9a4233239/)
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-C++ • JavaScript • TypeScript  
-
-**Frontend**  
-React • Next.js • Redux • TailwindCSS  
-
-**Backend**  
-Node.js • Express  
-
-**Database**  
-MongoDB • MySQL  
-
-**Tools**  
-Git • Postman • Vercel • Render  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketan-gulati&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketan-gulati&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan-gulati&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-⚡ Debugging sessions improve exponentially after coffee.
-</p>
+```txt
+Frontend  → React / Next.js
+Backend   → Node.js / Express
+Database  → MongoDB / MySQL
+Goal      → Production-scale architecture
