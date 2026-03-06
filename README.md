@@ -10,7 +10,7 @@
 
 ## 🚀 Currently Building
 
-🟢 **BookMyShow — High Concurrency Ticket Booking System**
+🟢 **BookMySeat — High Concurrency Ticket Booking System**
 
 • Handling race conditions  
 • Designing scalable backend architecture  
